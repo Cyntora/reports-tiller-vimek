@@ -1,0 +1,11 @@
+{
+  "client_id": "tiller-vimek",
+  "client_display_name": "Tiller Vimek",
+  "reports": [
+    {
+      "file": "2026-04.html",
+      "month": "2026-04",
+      "label": "April 2026"
+    }
+  ]
+}
